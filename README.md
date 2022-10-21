@@ -16,6 +16,8 @@ Based-On Unreal Engine 5.0.3
    - They can sell stuff (Treasure / Hunter-gatherer)
    - Battle with the NPC
    
+Actor (Player / NPC):
+   
 
 TODO:
 - Read the History of the Boat
