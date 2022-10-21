@@ -9,7 +9,7 @@ Based-On Unreal Engine 5.0.3
       - Default Rigging (standing / sitting)
 
 2. StoryLine
-   - In the beginning, the user starts out out-of-nowhere where the players are only given a ferryboat.
+   - In the beginning, the user starts out out-of-nowhere where the players are only given a raft.
    - The player can starts in hunter-gathering 
    
 3. How to upgrade the component of User Ship / Boats
@@ -17,7 +17,10 @@ Based-On Unreal Engine 5.0.3
    - Battle with the NPC
    
 Actor (Player / NPC):
-   
+   - Player
+     - Player can craft the boat's component such as sail, anchor, paddle in the beginning.
+     - If the player reachs certain level, then it can upgrade the boat, this will power up the boat 
+   - Player Level
 
 TODO:
 - Read the History of the Boat
